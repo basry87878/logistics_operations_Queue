@@ -4,4 +4,5 @@ logistics/
 ├── queue.py                 # Thread-safe Queue class.
 └── logistics_tracker.py     # Main entry point — thread creation & execution
 
-2 files, one for the Queue class, the other for the operation.
+2 files,
+here one for the Queue class, the other for the operation.
